@@ -16,14 +16,17 @@
 
 ## Задание 2
 
-
+![Скриншот результата](https://github.com/henqbro/Redis/blob/main/img1.png)
 
 ---
 
 ## Задание 3
 
-
+![Скриншот результата](https://github.com/henqbro/Redis/blob/main/img2.png)
 
 
 ## Задание 4
 
+![Скриншот результата](https://github.com/henqbro/Redis/blob/main/img3.png)
+
+---
